@@ -1,0 +1,6 @@
+.direnv
+.venv
+.env
+__pycache__
+.envrc
+.tool-versions
