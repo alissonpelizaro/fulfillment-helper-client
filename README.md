@@ -1,4 +1,5 @@
 # Assistant Fulfillment Helper Client Example
+_Author: Alisson Pelizaro_
 
 This repository contains an example client that demonstrates the usage of the `assistant-fulfillment-helper` library. The `assistant-fulfillment-helper` library simplifies the creation of webhooks for intent nodes in the TOTVS Assistant platform. With just a few lines of code, you can create custom business rules within your own server infrastructure.
 
